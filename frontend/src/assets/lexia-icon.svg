@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">LexIA</title>
+  <description id="description">Balance juridique dans une bulle de dialogue ornée d'une étoile marocaine</description>
+  <path fill="#2563EB" d="M12 5h40a7 7 0 0 1 7 7v32a7 7 0 0 1-7 7H31L17 60v-9h-5a7 7 0 0 1-7-7V12a7 7 0 0 1 7-7Z"/>
+  <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M32 16v25M22 22h20M32 17l-10 5-6 12h12l-6-12m20 0-6 12h12l-6-12M17 34c1 4 3 6 5 6s4-2 5-6m9 0c1 4 3 6 6 6s5-2 6-6M25 43h14"/>
+  <path fill="#1E3A8A" d="m32 10 1.3 3.1 3.2-1.3-1.3 3.2 3.1 1.3-3.1 1.3 1.3 3.2-3.2-1.3L32 22.6l-1.3-3.1-3.2 1.3 1.3-3.2-3.1-1.3 3.1-1.3-1.3-3.2 3.2 1.3Z"/>
+</svg>

@@ -1,0 +1,27 @@
+# Local environments and secrets
+.env
+.env.local
+backend/.env
+backend/.venv/
+.venv/
+venv/
+
+# Python and Django runtime files
+**/__pycache__/
+*.pyc
+*.py[cod]
+*.sqlite3
+backend/db.sqlite3
+backend/chroma_db/
+backend/media/
+backend/staticfiles/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local tooling and operating-system files
+.DS_Store
+.idea/
+.vscode/
+backups/

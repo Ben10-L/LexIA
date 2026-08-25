@@ -1,0 +1,134 @@
+question,language,expected_mode,expected_domain,expected_document_keyword,expected_content_keywords,forbidden_document_keywords,forbidden_content_keywords,should_have_sources,notes
+بغيت نطلق,darija,structured,Droit de la famille,مدونة الأسرة,طلاق|التطليق|الزوجين,,
+أريد الطلاق,ar,structured,Droit de la famille,مدونة الأسرة,طلاق|التطليق|الزوجين,,
+شنو حقوق الزوجة في الطلاق؟,darija,structured,Droit de la famille,مدونة الأسرة,الزوجة|طلاق|مستحقات,,
+شنو هي النفقة؟,darija,structured,Droit de la famille,مدونة الأسرة,النفقة|نفقة,,
+شنو هي الحضانة؟,darija,structured,Droit de la famille,مدونة الأسرة,الحضانة|احلضانة|المحضون|احملضون,,
+طردوني من الخدمة شنو ندير؟,darija,structured,Droit du travail,مدونة الشغل,فصل|تعويض|إخطار|خطأ جسيم,,يسري مفعول هذا القانون|الجريدة الرسمية|يدخل حيز التنفيذ
+شنو حقوقي في حالة الطرد؟,darija,structured,Droit du travail,مدونة الشغل,فصل|تعويض|إخطار|خطأ جسيم,,يسري مفعول هذا القانون|الجريدة الرسمية|يدخل حيز التنفيذ
+واش خاصني تعويض على الفصل؟,darija,structured,Droit du travail,مدونة الشغل,تعويض|الفصل|الأجر,,يسري مفعول هذا القانون|الجريدة الرسمية|يدخل حيز التنفيذ
+شنو هو أجل الإخطار؟,darija,structured,Droit du travail,مدونة الشغل,أجل الإخطار|الإخطار|تعويض,,يسري مفعول هذا القانون|الجريدة الرسمية|يدخل حيز التنفيذ
+شنو هو الخطأ الجسيم؟,darija,structured,Droit du travail,مدونة الشغل,الخطأ الجسيم|خطأ جسيم|فصل,,يسري مفعول هذا القانون|الجريدة الرسمية|يدخل حيز التنفيذ
+شنو عقوبة السرقة؟,darija,structured,Droit pénal,مجموعة القانون الجنائي,السرقة|سرق|اختلس|vol,,,true,Source pénale spécifique à la السرقة
+ما هي عقوبة السرقة؟,ar,structured,Droit pénal,مجموعة القانون الجنائي,السرقة|سرق|اختلس,,
+شنو عقوبة النصب؟,darija,structured,Droit pénal,مجموعة القانون الجنائي,النصب|نصب|يعاقب,,
+شنو عقوبة الضرب والجرح؟,darija,structured,Droit pénal,مجموعة القانون الجنائي,الضرب|الجرح|يعاقب,,
+شنو عقوبة التزوير؟,darija,structured,Droit pénal,مجموعة القانون الجنائي,التزوير|زور|يعاقب,,
+كيفاش ندير شكاية؟,darija,structured,Procédure pénale,قانون المسطرة الجنائية,شكاية|النيابة العامة|المشتكي,,
+كيف أقدم شكاية؟,ar,structured,Procédure pénale,قانون المسطرة الجنائية,شكاية|النيابة العامة|المشتكي,,
+شنو دور النيابة العامة؟,darija,structured,Procédure pénale,قانون المسطرة الجنائية,النيابة العامة|وكيل الملك,,
+شنو هي المتابعة؟,darija,structured,Procédure pénale,المسطرة الجنائية,المتابعة|يتابع|الدعوى العمومية,,
+شنو هي الشرطة القضائية؟,darija,structured,Procédure pénale,المسطرة الجنائية,الشرطة القضائية|ضباط الشرطة,,
+كيفاش نرفع دعوى؟,darija,structured,Procédure civile,قانون المسطرة المدنية,دعوى|مقال|المدعي,,
+كيف أرفع دعوى أمام المحكمة؟,ar,structured,Procédure civile,قانون المسطرة المدنية,دعوى|مقال|المحكمة,,
+شنو هو التبليغ؟,darija,structured,Procédure civile,قانون المسطرة المدنية,التبليغ|بلغ|استدعاء,,
+شنو هو الحكم؟,darija,structured,Procédure civile,قانون المسطرة المدنية,الحكم|الأحكام|قضت,,
+كيفاش نستأنف حكم؟,darija,structured,Procédure civile,قانون المسطرة المدنية,استئناف|المستأنف|الحكم,,
+عندي مشكل فالكراء,darija,structured,Droit immobilier,الكراء,الكراء|المكتري|المكري|الوجيبة,التعمير,
+المكري بغا يخرجني,darija,structured,Droit immobilier,الكراء,المكري|المكتري|الإفراغ|الكراء,التعمير,
+شنو حقوق المكتري؟,darija,structured,Droit immobilier,الكراء,المكتري|الكراء|الوجيبة,التعمير,
+شنو هي الوجيبة الكرائية؟,darija,structured,Droit immobilier,الكراء,الوجيبة|الكراء|المكتري,التعمير,
+كيفاش نستخلص الكراء؟,darija,structured,Droit immobilier,الكراء,استيفاء|الوجيبة|الكراء|المكري,التعمير,
+كيفاش ندير التحفيظ العقاري؟,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,التحفيظ|العقار|الملكية,,
+شنو هو التحفيظ العقاري؟,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,التحفيظ|العقار|الملكية,,
+عندي مشكل في الملكية العقارية,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,الملكية|العقار|الحقوق العينية,,
+شنو هي الحقوق العينية؟,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,الحقوق العينية|حق عيني|الملكية,,
+كيفاش نحافظ على عقار؟,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,العقار|التحفيظ|التقييد,,
+شنو حقوق المستهلك؟,darija,structured,Protection du consommateur,حماية المستهلك,المستهلك|حقوق,,
+شريت منتوج فيه عيب شنو ندير؟,darija,structured,Protection du consommateur,حماية المستهلك,عيب|المنتوج|الضمان|المستهلك,,
+واش عندي الحق في الضمان؟,darija,structured,Protection du consommateur,حماية المستهلك,الضمان|المستهلك|المورد,,
+شنو واجبات البائع تجاه المستهلك؟,darija,structured,Protection du consommateur,حماية المستهلك,البائع|المستهلك|المورد|الإعلام,,
+كيفاش نحمي راسي كمستهلك؟,darija,structured,Protection du consommateur,حماية المستهلك,المستهلك|حماية|حقوق,,
+شنو شروط رخصة البناء؟,darija,structured,Urbanisme,التعمير,رخصة البناء|البناء|الرخصة,,
+كيفاش ناخد رخصة البناء؟,darija,structured,Urbanisme,التعمير,رخصة البناء|البناء|الرخصة,,
+عندي مخالفة في البناء,darija,structured,Urbanisme,التعمير,مخالفة|البناء|رخصة,,
+شنو قانون التعمير؟,darija,structured,Urbanisme,التعمير,التعمير|البناء|التجزئة,,
+شنو هي التجزئة العقارية؟,darija,structured,Urbanisme,التعمير,التجزئة العقارية|التجزئات|البناء,,
+شنو دور المحامي؟,darija,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,المحامي|المحاماة,,
+شنو دور الموثق؟,darija,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,الموثق|التوثيق,,
+كيفاش نخدم مع موثق؟,darija,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,الموثق|التوثيق,,
+شنو هي مهنة المحاماة؟,darija,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,المحاماة|المحامي,,
+شنو هي مهنة التوثيق؟,darija,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,التوثيق|الموثق,,
+شنو هي شركة المساهمة؟,darija,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,شركة المساهمة|المساهمين|المساهمون,,
+شنو هي شركة التضامن؟,darija,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,شركة التضامن|الشركاء,,
+شنو هي شركة التوصية البسيطة؟,darija,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,التوصية البسيطة|الموصين|الشركاء,,
+شنو حقوق الشركاء؟,darija,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,الشركاء|حقوق|الحصص,,
+كيفاش تتأسس شركة؟,darija,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,تأسيس|الشركة|الشركاء,,
+Quels frais une entreprise peut retirer de son bénéfice imposable ?,fr,structured,Fiscalité,Code Général des Impôts,Article 10|charges déductibles,,
+Quelles sont les charges déductibles ?,fr,structured,Fiscalité,Code Général des Impôts,charges déductibles|résultat fiscal,,
+Comment créer une société anonyme ?,fr,structured,Sociétés,Loi n°17-95,Article Premier|société anonyme,,
+Quelles sont les règles relatives aux actionnaires ?,fr,structured,Sociétés,Loi n°17-95,actionnaires|assemblée générale,,
+Comment fonctionne un paiement vers l’étranger ?,fr,structured,Change,Instruction Générale des Opérations de Change,Article 7|destination de l’étranger,,
+Quelles sont les règles pour un virement international ?,fr,structured,Change,Instruction Générale des Opérations de Change,virement|destination de l’étranger,,
+Bonjour,fr,greeting,Greeting,,,,
+Quel est le meilleur téléphone ?,fr,off_topic,Off topic,,,,
+نسبة الضريبة؟,ar,unclear_legal,Fiscalité vague,,,,
+ثمن الضرائب؟,ar,unclear_legal,Fiscalité vague,,,,
+شحال الضريبة؟,darija,unclear_legal,Fiscalité vague,,,,
+القانون؟,ar,unclear_legal,Question juridique vague,,,,
+عندي مشكل قانوني,ar,unclear_legal,Question juridique vague,,,,
+Salut,fr,greeting,Greeting,,,,,false,Salutation française
+Bonsoir,fr,greeting,Greeting,,,,,false,Salutation française
+Hello,fr,greeting,Greeting,,,,,false,Salutation anglaise
+السلام عليكم,ar,greeting,Greeting,,,,,false,Salutation arabe
+مرحبا,ar,greeting,Greeting,,,,,false,Salutation arabe
+Salam,darija,greeting,Greeting,,,,,false,Salutation darija
+Merci beaucoup,fr,thanks,Thanks,,,,,false,Remerciement français
+شكرا جزيلا,ar,thanks,Thanks,,,,,false,Remerciement arabe
+Chokran bzaf,darija,thanks,Thanks,,,,,false,Remerciement darija
+شنو أحسن هاتف؟,darija,off_topic,Off topic,,,,,false,Téléphone
+ما هي حالة الطقس؟,ar,off_topic,Off topic,,,,,false,Météo
+عطيني وصفة أكل,ar,off_topic,Off topic,,,,,false,Recette
+نكتة,ar,off_topic,Off topic,,,,,false,Blague
+أفضل مطعم,ar,off_topic,Off topic,,,,,false,Restaurant
+how old are you?,fr,off_topic,Off topic,,,,,false,Question personnelle
+meilleur téléphone,fr,off_topic,Off topic,,,,,false,Téléphone
+recette couscous,fr,off_topic,Off topic,,,,,false,Recette
+météo demain,fr,off_topic,Off topic,,,,,false,Météo
+كيف أطلب تأشيرة إلى فرنسا؟,ar,out_of_scope,Immigration,,,,,false,Immigration non couverte
+ما هي شروط الهجرة؟,ar,out_of_scope,Immigration,,,,,false,Immigration non couverte
+Comment obtenir un visa ?,fr,out_of_scope,Immigration,,,,,false,Visa non couvert
+Que dit le droit international ?,fr,out_of_scope,Droit international,,,,,false,Domaine non couvert
+ما هي قواعد القانون الدولي؟,ar,out_of_scope,Droit international,,,,,false,Domaine non couvert
+أعطني تشخيصا طبيا,ar,out_of_scope,Médecine,,,,,false,Domaine non juridique
+Quel traitement médical choisir ?,fr,out_of_scope,Médecine,,,,,false,Domaine non couvert
+ما هي الأسرار العسكرية؟,ar,out_of_scope,Défense,,,,,false,Domaine non couvert
+أريد فتوى دينية,ar,out_of_scope,Religion,,,,,false,Domaine non couvert
+Donne-moi une fatwa religieuse,fr,out_of_scope,Religion,,,,,false,Domaine non couvert
+الضرائب؟,ar,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+شنو القانون؟,darija,unclear_legal,Question juridique vague,,,,,false,Trop vague
+بغيت نسول على القانون,darija,unclear_legal,Question juridique vague,,,,,false,Trop vague
+المحكمة؟,ar,unclear_legal,Procédure vague,,,,,false,Trop vague
+الخدمة؟,darija,unclear_legal,Travail vague,,,,,false,Trop vague
+الزواج؟,ar,unclear_legal,Famille vague,,,,,false,Trop vague
+impôt ?,fr,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+taxes ?,fr,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+taux d’impôt ?,fr,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+droit ?,fr,unclear_legal,Question juridique vague,,,,,false,Trop vague
+j’ai un problème juridique,fr,unclear_legal,Question juridique vague,,,,,false,Trop vague
+tribunal ?,fr,unclear_legal,Procédure vague,,,,,false,Trop vague
+travail ?,fr,unclear_legal,Travail vague,,,,,false,Trop vague
+mariage ?,fr,unclear_legal,Famille vague,,,,,false,Trop vague
+ch7al dariba?,darija,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+chno dariba?,darija,unclear_legal,Fiscalité vague,,,,,false,Trop vague
+3andi mochkil qanouni,darija,unclear_legal,Question juridique vague,,,,,false,Trop vague
+bghit nsowel 3la l9anoun,darija,unclear_legal,Question juridique vague,,,,,false,Trop vague
+chno ndir?,darija,unclear_legal,Question juridique vague,,,,,false,Trop vague
+lmahkama?,darija,unclear_legal,Procédure vague,,,,,false,Trop vague
+lkhdma?,darija,unclear_legal,Travail vague,,,,,false,Trop vague
+ما هي TVA؟,ar,structured,Fiscalité,Code Général des Impôts,TVA|valeur ajoutée|القيمة المضافة,,,true,Question fiscale précise
+ما هي الضريبة على الشركات؟,ar,unclear_legal,Fiscalité vague,,,,,false,Question IS trop large
+شنو هي الضريبة على الدخل؟,darija,structured,Fiscalité,Code Général des Impôts,impôt sur le revenu|الدخل,,,true,Question fiscale précise
+شنو هي عمليات الصرف؟,darija,structured,Change,Instruction Générale des Opérations de Change,opérations de change|change,,,true,Question change précise
+ما معنى غير مقيم؟,ar,structured,Change,Instruction Générale des Opérations de Change,non-résident|غير مقيم,,,true,Question change précise
+Comment faire un paiement vers l’étranger ?,fr,structured,Change,Instruction Générale des Opérations de Change,destination de l’étranger|paiement,,,true,Question change précise
+Kifach ndir virement lbarra?,darija,structured,Change,Instruction Générale des Opérations de Change,virement|destination de l’étranger,,,true,Question change précise
+كيف يتم الطلاق في المغرب؟,ar,structured,Droit de la famille,مدونة الأسرة,طلاق|التطليق,,,true,Question famille précise
+ما هي الجريمة؟,ar,structured,Droit pénal,مجموعة القانون الجنائي,جريمة|جنائي,,,true,Question pénale précise
+شنو هي المحكمة المختصة؟,darija,structured,Procédure civile,قانون المسطرة المدنية,المحكمة|الاختصاص,,,true,Question procédure précise
+شنو هو الرسم العقاري؟,darija,structured,Droit immobilier,التحفيظ العقاري|مدونة الحقوق العينية,الرسم العقاري|الملكية,,,true,Question foncière précise
+شنو واجبات المكري؟,darija,structured,Droit immobilier,الكراء,المكري|الكراء|الوجيبة,,,true,Question location précise
+شنو واجبات البائع؟,darija,structured,Protection du consommateur,حماية المستهلك,البائع|المستهلك|المنتوج,,,true,Question consommation précise
+ما الفرق بين المحامي والموثق؟,ar,structured,Professions juridiques,مهنة المحاماة|تنظيم مهنة التوثيق,محامي|موثق|المحاماة|التوثيق,,,true,Question professions précise
+ما هي حقوق الشركاء؟,ar,structured,Sociétés,شركات المساهمة|شركة التضامن وشركة التوصية البسيطة,الشركاء|حقوق|الحصص,,,true,Question sociétés précise
+الضريبة على الشركات,ar,unclear_legal,Fiscalité vague,,,,,false,Cas exact observé dans l UI
